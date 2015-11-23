@@ -1,0 +1,23 @@
+{
+  "name": "acme-supermarket",
+  "version": "1.0.0",
+  "description": "ACME JavaScript Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ag-digital/reevoo-supermarket.git"
+  },
+  "keywords": [
+    "javascript",
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ag-digital/reevoo-supermarket/issues"
+  },
+  "homepage": "https://github.com/ag-digital/reevoo-supermarket#readme"
+}
